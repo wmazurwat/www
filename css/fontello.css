@@ -59,7 +59,7 @@
 .icon-mail:before { content: '\e802';font-size: 76px; margin-top:18px ; } /* '' */
 .icon-facebook:before { content: '\f09a';font-size: 76px; margin-top:31px ; } /* '' */
 .icon-github-circled:before { content: '\f09b';font-size: 76px; margin-top:31px ; } /* '' */
-.icon-mail-alt:before { content: '\f0e0';font-size: 76px; margin-top:18px ; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
 .icon-graduation-cap:before { content: '\f19d';font-size: 76px; margin-top:18px ; } /* '' */
 .icon-googleplus-rect:before { content: '\f309';font-size: 76px; margin-top:31px ; } /* '' */
 .icon-linkedin-squared:before { content: '\f30c';font-size: 76px; margin-top:31px ; } /* '' */
