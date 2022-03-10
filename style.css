@@ -15,6 +15,7 @@ font-size: 20px;
 {
     width: 960px;
     margin: 20px;
+    text-align: center;
 }
 .square
 {
@@ -29,6 +30,7 @@ font-size: 20px;
     width: 600px;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: left;
 }
 #clock
 {
@@ -37,6 +39,7 @@ font-size: 20px;
     font-size: 70px;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: left;
 }
 .tile1
 {
@@ -45,6 +48,7 @@ font-size: 20px;
     height: 142px;
     background-color: #3095d3;
     float: left;
+    text-align: center;
 }
 .tile2
 {
@@ -53,14 +57,7 @@ font-size: 20px;
     height: 142px;
     background-color: #666666;
     float: left;
-}
-.tile2
-{
-    margin: 10px;
-    width:230px;
-    height: 142px;
-    background-color: #666666;
-    float: left;
+    text-align: center;
 }
 .tile3
 {
@@ -69,6 +66,7 @@ font-size: 20px;
     height: 142px;
     background-color: #93c748;
     float: left;
+    text-align: center;
 }
 .tile4
 {
@@ -76,4 +74,45 @@ font-size: 20px;
     width:480px;
     height: 142px;
     background-color: #ee5a32;
+    text-align: center;
+}
+.tile5
+{
+    margin: 10px;
+    width:480px;
+    height: 304px;
+    background-color: #666666;
+    text-align: center;
+}
+.linkedin
+{
+    margin: 10px;
+    width:105px;
+    height: 142px;
+    background-color: #176697;
+    float: left;
+}
+.fb
+{
+    margin: 10px;
+    width:105px;
+    height: 142px;
+    background-color: #4668b3;
+    float: left;
+}
+.gplus
+{
+    margin: 10px;
+    width:105px;
+    height: 142px;
+    background-color: #d95333;
+    float: left;
+}
+.git
+{
+    margin: 10px;
+    width:105px;
+    height: 142px;
+    background-color: #71848d;
+    float: left;
 }
